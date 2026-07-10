@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Sarthak Thakare
 
-<!--
-**sarthakthakare/sarthakthakare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 Computer Science Engineering Student
+- 🌱 Currently learning **Java, DSA, MERN Stack & Next.js**
+- 💻 Passionate about Full-Stack Web Development
+- 🚀 Building projects and improving problem-solving skills
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- Java
+- python
+- JavaScript
+- C
+- HTML
+- CSS
+
+### Frontend
+- React
+- Next.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 🎯 Current Goals
+- 📚 Master Java DSA
+- 🚀 Build scalable Full-Stack applications
+- 💼 Prepare for Software Engineering internships and placements
+
+## 📂 Featured Projects
+
+
+## 📫 Connect with Me
+- GitHub: https://github.com/sarthakthakare
+- LinkedIn: 
+
+---
+⭐ Thanks for visiting my profile!
